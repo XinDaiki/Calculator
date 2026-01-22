@@ -35,7 +35,6 @@ class Calculator:
             font=("Arial", 16),
             anchor="e",
             padx=30,
-            pady=5
         )
         expr_label.pack(side=tk.TOP, fill=tk.X)
         
